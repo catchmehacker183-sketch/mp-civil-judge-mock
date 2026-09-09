@@ -1,0 +1,13 @@
+{
+  "version": "GOLD_CPC_BANK_v1_1_VERIFIED",
+  "total_questions": 600,
+  "unique_ids": 600,
+  "duplicate_question_texts": 0,
+  "invalid_answer_indexes": 0,
+  "missing_explanations": 0,
+  "missing_references": 0,
+  "flagged_answer_reference_items_resolved": 12,
+  "status": "16-item answer/reference audit completed; 12 concrete provision-reference flags corrected and 4 remaining flagged items confirmed aligned after direct inspection.",
+  "verification_scope": "Statutory/provision-level verification against the CPC text. Case-law-dependent propositions are not represented as exhaustively precedent-verified.",
+  "production_recommendation": "Freeze this version as the CPC master unless a later source-specific correction is identified."
+}
