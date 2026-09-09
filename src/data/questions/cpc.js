@@ -1,4 +1,4 @@
-export const cpcQuestionBank = [
+export const questions = [
   {
     "id": "CPC-001",
     "subject": "Code of Civil Procedure, 1908",
